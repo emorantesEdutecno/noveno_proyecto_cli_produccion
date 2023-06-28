@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunknoveno_proyecto_cli"]=self["webpackChunknoveno_proyecto_cli"]||[]).push([[443],{507:function(n,t,e){e.r(t),e.d(t,{default:function(){return r}});var u=function(){var n=this;n._self._c;return n._m(0)},o=[function(){var n=this,t=n._self._c;return t("div",{staticClass:"about"},[t("h1",[n._v("This is an about page")])])}],s=e(1),c={},l=(0,s.Z)(c,u,o,!1,null,null,null),r=l.exports}}]);
+//# sourceMappingURL=about.5537cec8.js.map
